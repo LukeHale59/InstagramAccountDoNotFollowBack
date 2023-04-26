@@ -24,3 +24,5 @@ This Python script analyzes the followers and following data downloaded from an 
 ## Notes
 
 - If your downloaded HTML files have different names than `followers_1.html` and `following.html`, you can modify the file names in the `follower_analysis.py` script.
+
+- The script uses the fact that all of the usernames are in hyperlink '<a>' HTML tag, and takes all of the usernames in the <a> tags.
