@@ -26,3 +26,5 @@ This Python script analyzes the followers and following data downloaded from an 
 - If your downloaded HTML files have different names than `followers_1.html` and `following.html`, you can modify the file names in the `follower_analysis.py` script.
 
 - The script uses the fact that all of the usernames are in hyperlink HTML tag, and takes all of the usernames in the hyperlink tags.
+
+- Note this script is better than most soultions as you don't have to trust a third party with your instagram credentials
