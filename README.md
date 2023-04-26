@@ -15,9 +15,9 @@ This Python script analyzes the followers and following data downloaded from an 
 
 3. Go into the 'followers_and_following' folder and put the `follower_analysis.py` script into the directory.
 
-4. Install the BeautifulSoup4 library by running the following command: pip install beautifulsoup4
+4. Install the BeautifulSoup4 library by running the following command: 'pip install beautifulsoup4'
 
-5. Run the script by running the following command: python follower_analysis.py
+5. Run the script by running the following command: 'python3 follower_analysis.py'
 
 6. The script will output a list of usernames of the accounts that you follow but do not follow you back.
 
