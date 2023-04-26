@@ -13,7 +13,7 @@ This Python script analyzes the followers and following data downloaded from an 
 
 2. Download the data from the email you get from instagram and un zip it.
 
-3. Go into the 'followers_and_following' folder and put the `follower_analysis.py` script into the directory.
+3. Go into the `followers_and_following` folder and put the `follower_analysis.py` script into the directory.
 
 4. Install the BeautifulSoup4 library by running the following command: `pip install beautifulsoup4`
 
